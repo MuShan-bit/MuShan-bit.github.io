@@ -10,8 +10,8 @@
         </author>
         <description>♥欢迎来到木杉の小窝，在这里可以阅读我的学习笔记，以及我的情感生活♥</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 30 Apr 2022 21:07:03 +0800</pubDate>
-        <lastBuildDate>Sat, 30 Apr 2022 21:07:03 +0800</lastBuildDate>
+        <pubDate>Sat, 30 Apr 2022 21:44:54 +0800</pubDate>
+        <lastBuildDate>Sat, 30 Apr 2022 21:44:54 +0800</lastBuildDate>
         <category term="前端" />
         <category term="后端" />
         <category term="运维" />
@@ -19,11 +19,23 @@
         <category term="java" />
         <category term="c++" />
         <item>
+            <guid isPermalink="true">https://mushan-bit.github.io/2022/04/30/hexo/hexo-markdown%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B/</guid>
+            <title>hexo-markdown使用案例</title>
+            <link>https://mushan-bit.github.io/2022/04/30/hexo/hexo-markdown%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B/</link>
+            <category term="hexo" scheme="https://mushan-bit.github.io/categories/hexo/" />
+            <category term="hexo" scheme="https://mushan-bit.github.io/tags/hexo/" />
+            <pubDate>Sat, 30 Apr 2022 21:44:54 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;head&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#head&#34;&gt;#&lt;/a&gt; head&lt;/h3&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;title:     // 文章标题&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;date:   // 创建日期&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;updated:  // 更新日期&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;tags:    &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;   -&lt;/span&gt; [a,b] // 标签&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;categories: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;bullet&#34;&gt;   -&lt;/span&gt; [a,b] // 分类&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;keywords:  // 关键字&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;description: // 在主页描述、若不选自动节选&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cover:  // 主页缩略图&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;top&lt;span class=&#34;emphasis&#34;&gt;_img:  // 顶部图片 （链接）&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;emphasis&#34;&gt;// *若未设置 top_&lt;/span&gt;img，则使用 cover图，没 cover则默认图&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;comments：// 评论开启（true/false）、默认true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;section&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">https://mushan-bit.github.io/2022/04/30/%E5%90%8E%E7%AB%AF/mybatis/</guid>
             <title>MyBatis</title>
             <link>https://mushan-bit.github.io/2022/04/30/%E5%90%8E%E7%AB%AF/mybatis/</link>
             <category term="后端" scheme="https://mushan-bit.github.io/categories/%E5%90%8E%E7%AB%AF/" />
-            <category term="后端,MyBatis" scheme="https://mushan-bit.github.io/tags/%E5%90%8E%E7%AB%AF-MyBatis/" />
+            <category term="后端" scheme="https://mushan-bit.github.io/tags/%E5%90%8E%E7%AB%AF/" />
+            <category term="MyBatis" scheme="https://mushan-bit.github.io/tags/MyBatis/" />
             <pubDate>Sat, 30 Apr 2022 21:07:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;mybatis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis&#34;&gt;#&lt;/a&gt; MyBatis&lt;/h1&gt;
 &lt;h2 id=&#34;mybatis-maven安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mybatis-maven安装&#34;&gt;#&lt;/a&gt; MyBatis maven 安装&lt;/h2&gt;
@@ -69,7 +81,8 @@
             <title>maven 问题以及常用模板</title>
             <link>https://mushan-bit.github.io/2022/04/29/%E5%90%8E%E7%AB%AF/maven/</link>
             <category term="后端" scheme="https://mushan-bit.github.io/categories/%E5%90%8E%E7%AB%AF/" />
-            <category term="后端,maven" scheme="https://mushan-bit.github.io/tags/%E5%90%8E%E7%AB%AF-maven/" />
+            <category term="后端" scheme="https://mushan-bit.github.io/tags/%E5%90%8E%E7%AB%AF/" />
+            <category term="maven" scheme="https://mushan-bit.github.io/tags/maven/" />
             <pubDate>Fri, 29 Apr 2022 17:58:08 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;maven-问题以及常用模板&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#maven-问题以及常用模板&#34;&gt;#&lt;/a&gt; maven 问题以及常用模板&lt;/h1&gt;
 &lt;h3 id=&#34;依赖项下载源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依赖项下载源&#34;&gt;#&lt;/a&gt; 依赖项下载源&lt;/h3&gt;
